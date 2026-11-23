@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local secrets & data
+.env
+*.csv
+*.json
+venv/
