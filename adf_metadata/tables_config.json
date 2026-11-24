@@ -1,0 +1,5 @@
+[
+  { "table_name": "orders" },
+  { "table_name": "customers" },
+  { "table_name": "products" }
+]

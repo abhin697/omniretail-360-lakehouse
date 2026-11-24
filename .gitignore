@@ -226,4 +226,5 @@ __marimo__/
 .env
 *.csv
 *.json
+!adf_metadata/*.json
 venv/
