@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "adf-omniretail-dev"
+        },
+        "ls_aws_s3_secretAccessKey": {
+            "value": ""
+        },
+        "ls_aws_s3_properties_typeProperties_accessKeyId": {
+            "value": "AKIAYNJW5SOYFOW2JKOB"
+        },
+        "ls_adls_gen2_properties_typeProperties_url": {
+            "value": "https://adlsomniretail.dfs.core.windows.net/"
+        },
+        "containerUri": {
+            "value": ""
+        },
+        "containerSasToken": {
+            "value": ""
+        }
+    }
+}
